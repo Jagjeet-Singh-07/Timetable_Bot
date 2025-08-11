@@ -1,0 +1,157 @@
+{
+    "Monday": [
+        {
+            "subject": "Biology for Engineers",
+            "start": "09:30",
+            "end": "10:20"
+        },
+        {
+            "subject": "Mathematics-I",
+            "start": "10:20",
+            "end": "11:10"
+        },
+        {
+            "subject": "Logical Thinking & Problem Solving",
+            "start": "11:20",
+            "end": "12:10"
+        },
+        {
+            "subject": "Design Thinking and Innovation",
+            "start": "13:05",
+            "end": "13:55"
+        },
+        {
+            "subject": "Design Thinking and Innovation",
+            "start": "13:55",
+            "end": "14:45"
+        },
+        {
+            "subject": "Computer Graphics Lab",
+            "start": "14:45",
+            "end": "15:35"
+        },
+        {
+            "subject": "Computer Graphics Lab",
+            "start": "15:35",
+            "end": "16:25"
+        }
+    ],
+    "Tuesday": [
+        {
+            "subject": "Communication Skills-I",
+            "start": "09:30",
+            "end": "10:20"
+        },
+        {
+            "subject": "Communication Skills-I",
+            "start": "10:20",
+            "end": "11:10"
+        },
+        {
+            "subject": "Logical Thinking & Problem Solving",
+            "start": "11:20",
+            "end": "12:10"
+        },
+        {
+            "subject": "Logical Thinking & Problem Solving",
+            "start": "12:10",
+            "end": "13:00"
+        }
+    ],
+    "Wednesday": [
+        {
+            "subject": "Mathematics-I",
+            "start": "10:20",
+            "end": "11:10"
+        },
+        {
+            "subject": "Academic & Career Pathway Planning",
+            "start": "11:20",
+            "end": "12:10"
+        },
+        {
+            "subject": "Mathematics-I",
+            "start": "13:05",
+            "end": "13:55"
+        },
+        {
+            "subject": "Semiconductor Physics and Applications",
+            "start": "13:55",
+            "end": "14:45"
+        }
+    ],
+    "Thursday": [
+        {
+            "subject": "Mathematics-I",
+            "start": "09:30",
+            "end": "10:20"
+        },
+        {
+            "subject": "Logical Thinking & Problem Solving",
+            "start": "10:20",
+            "end": "11:10"
+        },
+        {
+            "subject": "Logical Thinking & Problem Solving",
+            "start": "11:20",
+            "end": "12:10"
+        },
+        {
+            "subject": "Logical Thinking & Problem Solving",
+            "start": "12:10",
+            "end": "13:00"
+        },
+        {
+            "subject": "Semiconductor Physics and Applications",
+            "start": "13:55",
+            "end": "14:45"
+        },
+        {
+            "subject": "Semiconductor Physics and Applications",
+            "start": "14:45",
+            "end": "15:35"
+        },
+        {
+            "subject": "Semiconductor Physics and Applications",
+            "start": "15:35",
+            "end": "16:25"
+        }
+    ],
+    "Friday": [
+        {
+            "subject": "AI Applications Lab",
+            "start": "09:30",
+            "end": "10:20"
+        },
+        {
+            "subject": "AI Applications Lab",
+            "start": "10:20",
+            "end": "11:10"
+        },
+        {
+            "subject": "Biology for Engineers",
+            "start": "11:20",
+            "end": "12:10"
+        },
+        {
+            "subject": "Communication Skills-I",
+            "start": "12:10",
+            "end": "13:00"
+        },
+        {
+            "subject": "Mathematics-I",
+            "start": "13:55",
+            "end": "14:45"
+        },
+        {
+            "subject": "Biology for Engineers",
+            "start": "14:45",
+            "end": "15:35"
+        },
+        {
+            "subject": "Universal Human Values, Ethics and Life Skills",
+            "start": "15:35",
+            "end": "16:25"
+        }
+    ]
+}
