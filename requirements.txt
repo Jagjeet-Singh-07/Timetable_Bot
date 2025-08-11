@@ -1,4 +1,0 @@
-python-telegram-bot==20.5
-APScheduler==3.10.1
-pytz
-telegram
